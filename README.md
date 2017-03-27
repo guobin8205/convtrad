@@ -1,11 +1,11 @@
 convtrad
 =====
 
-Convert from tranditional chinese to simplified chinese.
+Convert from traditional chinese to simplified chinese.
 
 ## Install
 
-	go get github.com/nadoo/convtrad
+	go get -u github.com/nadoo/convtrad
 
 ## Usage
 ```Go
